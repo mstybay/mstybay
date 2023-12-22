@@ -10,10 +10,10 @@
 ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
-![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-
+![DevExpress Badge](https://img.shields.io/badge/DevExpress-FF7200?logo=devexpress&logoColor=fff&style=for-the-badge)
 
 ### 🐍 &nbsp;My Contributions
 <picture>
