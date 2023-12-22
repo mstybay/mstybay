@@ -1,8 +1,10 @@
 ### 🧑🏻‍💻 &nbsp;Summary
 
-- 👋 Hi, I’m Mustafa BAY 
-- 🌱 I’m currently working as .NET Software Developer.
-- 💻 Along with developing software on Mac & Windows,
+👋 Hello, I'm Mustafa BAY.
+
+🌱 Currently, I'm actively working as a .NET Software Developer.
+💻 I'm gaining experience in software development on both Mac and Windows platforms.
+🤖 Additionally, I'm interested in technologies such as artificial intelligence and Python.
 
 <br/>
 
@@ -23,6 +25,7 @@
 </picture>
 
 
-- 📫 How to contact with me ... 
+- 📫 How to contact with me ...
+<br>
 [![gmail](https://img.shields.io/badge/-msty.bay%40gmail.com-141a20?style=flat-square&logoColor=B94E48&color=B94E48)](mailto:msty.bay@gmail.com)
 
