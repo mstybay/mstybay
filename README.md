@@ -2,9 +2,9 @@
 
 👋 Hello, I'm Mustafa BAY.
 
-🌱 Currently, I'm actively working as a .NET Software Developer.
-💻 I'm gaining experience in software development on both Mac and Windows platforms.
-🤖 Additionally, I'm interested in technologies such as artificial intelligence and Python.
+- 🌱 Currently, I'm actively working as a .NET Software Developer.
+- 💻 I'm gaining experience in software development on both Mac and Windows platforms.
+- 🤖 Additionally, I'm interested in technologies such as artificial intelligence and Python.
 
 <br/>
 
