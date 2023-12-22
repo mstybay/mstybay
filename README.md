@@ -1,10 +1,8 @@
 ### 🧑🏻‍💻 &nbsp;Summary
 
 - 👋 Hi, I’m Mustafa BAY 
-- 🌱 I’m currently working as Full-Stack Web Developer.
-- 💻 Along with developing software on Mac,
-- 🚀 It pays particular attention to `type safety`, `CI/CD`, `OOP`, `E2E`, and `Unit Testing`.
-- 🥳 A full stack developer who loves learning and teaching.
+- 🌱 I’m currently working as .NET Software Developer.
+- 💻 Along with developing software on Mac & Windows,
 
 <br/>
 
@@ -22,11 +20,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mstybay/mstybay/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mstybay/mstybay/output/github-contribution-grid-snake.svg">
 </picture>
-
-### ⚙️ &nbsp;GitHub Analytics
-![Selim Geçin's github stats](https://github-readme-stats.vercel.app/api?username=mstybay&theme=radical)&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstybay&layout=compact&theme=radical&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
 
 
 - 📫 How to reach me ... 
