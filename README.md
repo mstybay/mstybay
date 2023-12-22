@@ -7,11 +7,12 @@
 <br/>
 
 ### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+![C# Badge]([https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/-C%23-141a20?style=flat-square&logoColor=B94E48&color=B94E48))
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-![C++](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 
 
 ### 🐍 &nbsp;My Contributions
