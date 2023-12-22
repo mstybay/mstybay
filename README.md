@@ -25,3 +25,8 @@
 
 - 📫 How to contact with me ... 
 [![gmail](https://img.shields.io/badge/-msty.bay@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:msty.bay@gmail.com)
+
+
+[![gmail](https://img.shields.io/badge/-msty.bay%40gmail.com-141a20?style=flat-square&logoColor=B94E48&color=B94E48)](mailto:msty.bay@gmail.com)
+
+![Static Badge](https://img.shields.io/badge/-msty.bay%40gmail.com-141a20?style=flat-square&logoColor=B94E48&color=B94E48)
