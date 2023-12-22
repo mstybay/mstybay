@@ -23,4 +23,4 @@
 
 
 - 📫 How to reach me ... 
-[![gmail](https://img.shields.io/badge/-gecin18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:msty.bay@gmail.com)
+[![gmail](https://img.shields.io/badge/-msty.bay@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:msty.bay@gmail.com)
